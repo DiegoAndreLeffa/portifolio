@@ -15,8 +15,8 @@ import {
 
 import pixelcraft from "./assets/pixelcraft.png";
 import glowbottle from "./assets/glowbottle.png";
-import cheffacil1 from "./assets/Cheffacil-escuro.png";
-import cheffacil2 from "./assets/Cheffacil-claro.png";
+import cheffacil1 from "./assets/ChefFacil-escuro.png";
+import cheffacil2 from "./assets/ChefFacil-claro.png";
 
 const lightTheme = {
   background: "#f5f5f5",
